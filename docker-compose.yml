@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   bytebin:
-    image: ghcr.io/lucko/bytebin
+    image: ghcr.io/evidentsinger14/bytebin
     ports:
       - 3000:8080
     volumes:
